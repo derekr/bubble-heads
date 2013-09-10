@@ -28,7 +28,7 @@ npm start
 
 And navigating to [http://localhost:8000/examples](http://localhost:8000/examples)
 
-![](https://raw.github.com/derekr/template-beefy/master/examples/samples.png)
+![](https://raw.github.com/derekr/bubble-heads/master/examples/sizes.png)
 
 ## Installation
 
