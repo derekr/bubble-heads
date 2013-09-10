@@ -1,0 +1,17 @@
+{
+  "author": "drk <drk@diy.org> (drk.es)",
+  "name": "bubble-heads",
+  "description": "Easy circle avatars for your latest as-a-service app.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/derekr/bubble-heads",
+  "repository": {
+    "url": "https://github.com/derekr/bubble-heads"
+  },
+  "main": "./lib/index.css",
+  "scripts": {
+    "start": "simple"
+  },
+  "devDependencies": {
+    "simple": "~0.1.0"
+  }
+}

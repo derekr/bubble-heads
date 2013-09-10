@@ -1,0 +1,17 @@
+.avatar { display: inline-block; }
+.avatar img { max-width: 100%; }
+
+.avatar.xsml-avatar     { width: 30px; }
+.avatar.xsml-avatar img { border-radius: 15px; }
+
+.avatar.sml-avatar     { width: 46px; }
+.avatar.sml-avatar img { border-radius: 23px; }
+
+.avatar, .avatar.med-avatar     { width: 70px; }
+.avatar img, .avatar.med-avatar img { border-radius: 35px; }
+
+.avatar.lrg-avatar     { width: 105px; }
+.avatar.lrg-avatar img { border-radius: 52.5px; }
+
+.avatar.xlrg-avatar     { width: 157.5px; }
+.avatar.xlrg-avatar img { border-radius: 78.75px; }
