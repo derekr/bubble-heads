@@ -4,7 +4,7 @@
 This is a really basic module to get you up and running w/ circle avatars because we 
 all know circle avatars are super legit.
 
-Simple add a `avatar` to a container class for the avatar img and you're rocking.
+Simply add a `avatar` to a container class for the avatar img and you're rocking.
 
 ```html
 <a href="/profile/drk" class="avatar">
