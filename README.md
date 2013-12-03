@@ -11,6 +11,7 @@ Simply add a `avatar` to a container class for the avatar img and you're rocking
     <img src="/avatars/drk.jpg" alt="drk avatar">
 </a>
 ```
+Yep, that easy!
 
 ## Sizes
 
